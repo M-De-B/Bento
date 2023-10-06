@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Yandex music',
+					link: 'https://music.yandex.ru/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'My playlist',
+					link: 'https://music.yandex.ru/users/n.sity.mirage/playlists/3',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sad',
+					link: 'https://music.yandex.ru/users/n.sity.mirage/playlists/1001',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Work',
+					link: 'https://music.yandex.ru/users/n.sity.mirage/playlists/1002',
 				},
 			],
 		},
