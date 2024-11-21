@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'video',
+			icon: 'video',
+			link: 'http://hdrezka.me/',
 		},
 		{
 			id: '3',
